@@ -1,1 +1,1 @@
-[www.patika.dev ] C# kursu ödevi
+[www.patika.dev ] C# kursu ödevleri
