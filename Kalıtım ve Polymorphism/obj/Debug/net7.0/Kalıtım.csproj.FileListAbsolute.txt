@@ -1,0 +1,15 @@
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\bin\Debug\net7.0\Kalıtım.exe
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\bin\Debug\net7.0\Kalıtım.deps.json
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\bin\Debug\net7.0\Kalıtım.runtimeconfig.json
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\bin\Debug\net7.0\Kalıtım.dll
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\bin\Debug\net7.0\Kalıtım.pdb
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\Kalıtım.csproj.AssemblyReference.cache
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\Kalıtım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\Kalıtım.AssemblyInfoInputs.cache
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\Kalıtım.AssemblyInfo.cs
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\Kalıtım.dll
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\refint\Kalıtım.dll
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\Kalıtım.pdb
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\Kalıtım.genruntimeconfig.cache
+C:\Users\tahir\OneDrive\Masaüstü\Patika.dev C#\Kalıtım\obj\Debug\net7.0\ref\Kalıtım.dll
